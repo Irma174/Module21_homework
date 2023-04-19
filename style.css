@@ -1,0 +1,46 @@
+.btn {
+    width: 180px;
+    height: 37px;
+    background: #E3B873;
+    box-shadow: 0px 5px 15px rgba(227, 184, 115, 0.2);
+    border-radius: 2px;
+    font-size: 11px;
+
+    line-height: 15px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    outline: 0;
+    border: 0;
+}
+
+input {
+    font-size: 14px;
+    line-height: 23px;
+
+    border: 1px solid rgba(0, 0, 0);
+    width: 200px;
+    height: 34px;
+}
+
+p {
+    text-transform: uppercase;
+}
+
+.card {
+    width: 200px;
+    margin: 20px;
+}
+
+.card-image {
+    display: block;
+    width: 200px;
+    height: 150px;
+    margin-right: 20px;
+}
+
+.result {
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 500px;
+}
